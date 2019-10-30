@@ -90,9 +90,6 @@
             <td>
                 <img width="250" height="270" title="1556522263559154.jpg" style="width: 250px; height: 270px;" src="/Public/Uploads/ueditor/upload/image/20190429/1556522263559154.jpg"/>
             </td>
-            <td>
-                <img width="250" height="270" title="1556522265113741.jpg" style="width: 250px; height: 270px;" src="/Public/Uploads/ueditor/upload/image/20190429/1556522265113741.jpg"/>
-            </td>
         </tr>
     </tbody>
 </table>
