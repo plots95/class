@@ -1,93 +1,667 @@
-# class
-官网
-<div class="g_sycen1hf g_sycen1hf12 fl clearfix wow">
-    <a href="/Cn/Index/pageView/catid/10/id/8.html" target="_blank"></a>
-    <div class="g_sycen1hf1 fl">
-        <p>
-            <a href="/Cn/Index/pageView/catid/58.html" target="_blank" textvalue="只支持选中一个链接时生效"><img src="/Public/Uploads/ueditor/upload/image/20191029/1572317177990978.png" title="1572317177990978.png" alt="白反-logo-2.png"/></a>
-        </p>
-        <div class="g_sycen1wz" style="white-space: normal;">
-            <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank"><span style="color: rgb(255, 255, 255);">新通用平台解决方案</span></a>
-        </div>
-        <div class="g_cenbtnbox" style="white-space: normal;">
-            <div class="g_cenbtn clearfix">
-                <div class="g_cenbtn1 fl">
-                    <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank"><span style="color: rgb(255, 255, 255);">了解更多</span></a>
-                </div>
-                <div class="g_cenbtn2 fl">
-                    <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank" textvalue="只支持选中一个链接时生效"><img class="g_cenbtn21" src="http://25.test2.yongsy.net/Public/Cn/images/sycen2jt1.png"/>&nbsp;<img class="g_cenbtn22" src="http://25.test2.yongsy.net/Public/Cn/images/sycen2jt2.png"/></a>
-                </div>
-            </div>
-        </div>
-        <div class="g_sycen1wz">
-            <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/9/id/4.html" target="_blank" style="white-space: normal;"></a><a href="/Cn/Index/pageView/catid/58.html" target="_blank"><img src="/Public/Uploads/ueditor/upload/image/20191028/1572253479104795.png" title="1572253479104795.png" alt="banner336-1.png"/></a>
-        </div>
-    </div><a href="/Cn/Index/pageView/catid/10/id/8.html" target="_blank"></a>
+<div class="g_b2cen4tle clearfix wow">
+    <h3>
+        4
+    </h3>
+    <p>
+        个可使用的产品系列
+    </p>
 </div>
-
-<div class="g_sycen1hf g_sycen1hf12 fl clearfix wow">
-    <a href="/Cn/Index/pageView/catid/10/id/8.html" target="_blank"></a>
-    <div class="g_sycen1hf1 fl">
-        <p>
-            <a href="/Cn/Index/pageView/catid/58.html" target="_blank" textvalue="只支持选中一个链接时生效"><img src="/Public/Uploads/ueditor/upload/image/20191029/1572317177990978.png" title="1572317177990978.png" alt="白反-logo-2.png"/></a>
-        </p>
-        <div class="g_sycen1wz">
-            <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank"><span style="color: rgb(255, 255, 255);">新通用平台解决方案</span></a>
-        </div>
-        <div class="g_cenbtnbox">
-            <div class="g_cenbtn clearfix">
-                <div class="g_cenbtn1 fl">
-                    <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank"><span style="color: rgb(255, 255, 255);">了解更多</span></a>
-                </div>
-                <div class="g_cenbtn2 fl">
-                    <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/58.html" target="_blank" textvalue="只支持选中一个链接时生效"><img class="g_cenbtn21" src="http://25.test2.yongsy.net/Public/Cn/images/sycen2jt1.png"/>&nbsp;<img class="g_cenbtn22" src="http://25.test2.yongsy.net/Public/Cn/images/sycen2jt2.png"/></a>
-                </div>
-            </div>
-        </div>
-        <div class="g_sycen1wz">
-            <a href="http://25.test2.yongsy.net/Cn/Index/pageView/catid/9/id/4.html" target="_blank" style="white-space: normal;"></a><a href="/Cn/Index/pageView/catid/58.html" target="_blank"><img src="/Public/Uploads/ueditor/upload/image/20191028/1572253479104795.png" title="1572253479104795.png" alt="banner336-1.png"/></a>
-        </div>
-    </div><a href="/Cn/Index/pageView/catid/10/id/8.html" target="_blank"></a>
-</div>
-
-<div class="g_sycen1hf g_sycen1hf11 fl clearfix wow">
-    <a href="/Cn/Index/pageView/catid/9/id/4.html" target="_blank"><div class="g_sycen1hf1 fl">
-        <div class="g_sycen1icon"></div>
+<div class="g_table wow">
+    <table>
+        <tbody>
+            <tr class="g_tr1 firstRow">
+                <td class="g_td1 g_td11"></td>
+                <td class="g_td1 g_td12">
+                    硬探测版
+                </td>
+                <td class="g_td1 g_td13" style="word-break: break-all;">
+                    硬探测版++
+                </td>
+                  <td class="g_td1 g_td13" style="word-break: break-all;">
+                    标准版
+                </td>
+                <td class="g_td1 g_td14">
+                    高级版
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持便携式的单点测量设备
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持CNC CMM的单点测量设备
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持便携式测量的点云扫描仪
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                 <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持CNC CMM的点云扫描仪
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                 <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    实时高质量网格化和离线点云网格化
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                 <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    PolyWorks|Modeler Light模块
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                 <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+             <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    PolyWorks|AR 插件
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                 <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    IGES/STEP 通用CAD文件转换器
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    零件对齐工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    尺寸控制工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    Smart GD&amp;T工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+             <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    报告工具集
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+             <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    离线项目设置的模拟模式
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+             <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    可重复的多工件测量工作流程
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    统计过程控制工具(SPC)
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    1年技术支持
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="g_tr3" style="text-align: left;">
+        选项
     </div>
-    <div class="g_sycen1hf1 fl">
-        <div class="g_sycen1icon">
-            <img src="/Public/Uploads/ueditor/upload/image/20191029/1572336371690057.png" title="1572336371690057.png" alt="白反-logo-3.png"/>
-        </div>
-        <div class="g_sycen1wz">
-            新通用平台解决方案
-        </div>
-        <div class="g_cenbtnbox">
-            <div class="g_cenbtn clearfix">
-                <div class="g_cenbtn1 fl">
-                    了解更多
-                </div>
-                <div class="g_cenbtn2 fl">
-                    <img class="g_cenbtn21" src="/Public/Cn/images/sycen2jt1.png"/> <img class="g_cenbtn22" src="/Public/Cn/images/sycen2jt2.png"/>
-                </div>
-            </div>
-        </div>
-    </div><img src="/Public/Uploads/ueditor/upload/image/20191029/1572336426139780.png" title="1572336426139780.png" alt="banner336-1.png"/></a>
+    <table>
+        <tbody>
+            <tr class="g_tr4 firstRow">
+                <td class="g_td2 g_td21">
+                    原生CAD文件转换器
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                 <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+            </tr>
+            <tr class="g_tr4">
+                <td class="g_td2 g_td21">
+                    叶片量规
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                 <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+            </tr>
+            <tr class="g_tr5">
+                <td class="g_td2 g_td51"></td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/43.html" target="_blank">更多信息&gt;</a>
+                </td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/45.html" target="_blank" textvalue="更多信息&gt;">更多信息&gt;</a>
+                </td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/46.html" target="_blank" textvalue="更多信息&gt;">更多信息&gt;</a>
+                </td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/46.html" target="_blank" textvalue="更多信息&gt;">更多信息&gt;</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 
-
-
-
-<table>
-    <tbody>
-        <tr class="firstRow">
-            <td>
-                <img width="540" height="320" title="1556522264208661.jpg" style="width: 360px; height: 240px;" src="/Public/Uploads/ueditor/upload/image/20190429/1556522264208661.jpg"/>
-            </td>
-            <td>
-                <img width="540" height="320" title="1556522266131061.jpg" style="width: 360px; height: 240px;" src="/Public/Uploads/ueditor/upload/image/20190429/1556522266131061.jpg"/>
-            </td>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="g_b2cen4tle clearfix wow">
+    <h3>
+        3
+    </h3>
+    <p>
+        个可使用的产品系列
+    </p>
+</div>
+<div class="g_table wow">
+    <table>
+        <tbody>
+            <tr class="g_tr1 firstRow">
+                <td class="g_td1 g_td11"></td>
+                <td class="g_td1 g_td12">
+                    硬探测版
+                </td>
+                <td class="g_td1 g_td13" style="word-break: break-all;">
+                    硬探测版++
+                </td>
+                <td class="g_td1 g_td14">
+                    高级版
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持便携式的单点测量设备
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持CNC CMM的单点测量设备
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    支持便携式的扫描仪
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    实时高质量网格化和离线点云网格化
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    IGES/STEP 通用CAD文件转换器
+                </td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22"></td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    零件对齐工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    尺寸控制工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    Smart GD&amp;T工具
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    统计过程控制工具(SPC)
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr class="g_tr2">
+                <td class="g_td2 g_td21">
+                    1年技术支持
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="g_tr3" style="text-align: left;">
+        选项
+    </div>
+    <table>
+        <tbody>
+            <tr class="g_tr4 firstRow">
+                <td class="g_td2 g_td21">
+                    原生CAD文件转换器
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+            </tr>
+            <tr class="g_tr4">
+                <td class="g_td2 g_td21">
+                    叶片量规
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+                <td class="g_td2 g_td41">
+                    选项
+                </td>
+            </tr>
+            <tr class="g_tr5">
+                <td class="g_td2 g_td51"></td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/43.html" target="_blank">更多信息&gt;</a>
+                </td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/45.html" target="_blank" textvalue="更多信息&gt;">更多信息&gt;</a>
+                </td>
+                <td class="g_td2 g_td51">
+                    <a href="/Cn/Index/pageView/catid/46.html" target="_blank" textvalue="更多信息&gt;">更多信息&gt;</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
