@@ -333,6 +333,11 @@
                         <br/>
                     </p>
                 </td>
+                <td class="g_td2 g_td22">
+                    <p>
+                        <br/>
+                    </p>
+                </td>
             </tr>
             <tr class="g_tr2">
                 <td class="g_td2 g_td21">
@@ -665,3 +670,31 @@
         </tbody>
     </table>
 </div>
+
+<li class="g_footsli fl">
+    <a href="/Cn/Index/listView/catid/8.html" target="_blank">&gt;产品总览</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/pageView/catid/20.html" target="_blank">&gt;技术服务</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/pageView/catid/29.html" target="_blank">&gt;关于我们</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/pageView/catid/9/id/4.html" target="_blank">&gt;PolyWorks|Inspector</a>
+</li>
+<li class="g_footsli fl">
+    <a href="https://www.innovmetric.com/zh-hans/account/login?destination=node/1532" target="_blank">&gt;技术支持专区</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/listView/catid/27.html" target="_blank">&gt;公司新闻</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/pageView/catid/58.html" target="_blank">&gt;PolyWorks 2019 新的突破</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/listView/catid/25.html" target="_blank">&gt;实用技巧</a>
+</li>
+<li class="g_footsli fl">
+    <a href="/Cn/Index/listView/catid/28.html" target="_blank">&gt;市场活动</a>
+</li>
