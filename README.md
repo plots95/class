@@ -1,3 +1,28 @@
+<div class="mc_template_lisbox" style="clear: both; background-color: rgb(99, 255, 132);" data-mce-style="clear: both;">
+    <div class="mc_cas2_xlbox">
+        <div class="g_content">
+            <div class="mc_cas2_xlli cas2_xl_noimg">
+                <article class="align-left">
+                    <div>
+                        <img src="/Public/Uploads/ueditor/upload/image/20210204/1612419354663436.png" alt="products-modeler-icon-4.png" data-mce-src="../../../../../Public/Cn/images/cas2_xl_hdimg4.png" class="" title="1612419354663436.png"/>&nbsp; &nbsp;<strong style="color: inherit; font-family: inherit; font-size: 18px;" data-mce-style="color: inherit; font-family: inherit; font-size: 18px;">只需点击几下鼠标就能查看检测项目</strong>
+                    </div>
+                </article>
+                <div style="padding-left: 80px;" data-mce-style="padding-left: 80px;">
+                    <p>
+                        <br/>
+                    </p>
+                </div>
+                <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                    <p>
+                        将包含数百个尺寸和GD&amp;T控制的项目，组织成具有逻辑性的小型控制组，每个控制都与指定的对齐方式和坐标系相关联。将包含数百个尺寸和 GD&amp;T控制的项目，组织成具有逻辑性——此段是测试文案
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
 <div class="mc_template_lisbox" style="clear: both; background-color: rgb(0, 0, 0);" data-mce-style="clear: both;">
     <div class="mc_cas3_tabbox">
         <div class="g_content">
