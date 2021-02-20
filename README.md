@@ -1,3 +1,80 @@
+ <div class="text-block-content">
+                                                <div>
+                                                    <h2>
+                                                        <br/>
+                                                    </h2>
+                                                    <h2>
+                                                        <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">实体建模</span>
+                                                    </h2>
+                                                    <p>
+                                                        <br/>
+                                                    </p>
+                                                    <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">实体建模工作流程中的基本构建块是参数化2D草图。通过执行拉伸、旋转、放样和扫描操作来创建实体的基本特征。PolyWorks|Modeler优化了在扫描三角化模型上抽取的几何实体，创建参数化的2D草图，并将该草图作为生成参数化、关联性、完全可编辑的实体CAD模型的起点。</span>
+                                                        </p>
+                                                    </div>
+                                                    <p>
+                                                        <br/>
+                                                    </p>
+                                                    <p>
+                                                        <br/>
+                                                    </p>
+                                                    <article>
+                                                        <div>
+                                                            <img src="/Public/Uploads/ueditor/upload/image/20210220/1613792646437399.png" width="59" height="73" alt="products-modeler-icon-7.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-1_0.png" class="" title="1613792646437399.png"/>
+                                                        </div>
+                                                    </article>
+                                                    <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                                        <p>
+                                                            <br/>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">从扫描模型创建草图</span>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">使用标准或自定义的平面定义一个草图平面，并通过三角化模型切割断面或抽取轮廓边缘计算草图轮廓。</span>
+                                                        </p>
+                                                    </div>
+                                                    <p>
+                                                        <br/>
+                                                    </p>
+                                                    <article>
+                                                        <div>
+                                                            <img src="/Public/Uploads/ueditor/upload/image/20210220/1613792656411077.png" width="88" height="67" alt="products-modeler-icon-8.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-2_0.png" title="1613792656411077.png"/>
+                                                        </div>
+                                                    </article>
+                                                    <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                                        <p>
+                                                            <br/>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">创建草图实体和尺寸</span>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">将参数化2D草图（圆弧、线、圆和曲线）拟合到草图轮廓线，锚定和拟合草图实体。</span>
+                                                        </p>
+                                                    </div>
+                                                    <p>
+                                                        <br/>
+                                                    </p>
+                                                    <article>
+                                                        <div>
+                                                            <img src="/Public/Uploads/ueditor/upload/image/20210220/1613792668669985.png" width="88" height="49" alt="products-modeler-icon-9_0.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-3_0.png" title="1613792668669985.png"/>
+                                                        </div>
+                                                    </article>
+                                                    <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                                        <p>
+                                                            <br/>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">将PolyWorks草图转移到CAD软件</span>
+                                                        </p>
+                                                        <p>
+                                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">使用CATIA、NX、Creo、SolidWorks和Inventor插件将PolyWorks|Modeler的参数化草图转化至实体CAD建模软件。</span>
+                                                        </p>
+                                                    </div>
+                                                </div>结束
 <div class="mc_template_lisbox" style="clear: both;" data-mce-style="clear: both;">
     <div class="mc_cas1_ztywbox">
         <div class="g_content">
