@@ -1,3 +1,111 @@
+<div class="mc_template_lisbox" style="clear: both; background-color: rgb(0, 0, 0);" data-mce-style="clear: both; ">
+    <div class="mc_cas1_ztywbox">
+        <div class="mt-0 mb-0 invdxp-layout invdxp-two-column bg--black color--white">
+            <div class="container">
+                <div class="pt-2 pt-md-3 pb-8 pb-md-10 px-4 px-md-6 mx-n2 mx-md-n3">
+                    <div class="row align-items-start">
+                        <div class="sticky-col-lg col-12 col-lg-6">
+                            <div data-block-plugin-id="inline_block:text" data-inline-block-uuid="fed2a2a5-d242-428a-bcb6-667bda714323">
+                                <div class="text-block-content">
+                                    <div>
+                                        <article class="align-center">
+                                            <div>
+                                                <img src="/Public/Uploads/uploadfile/images/20210219/20210219163635_602f789366a18.jpg" height:auto="" alt="" typeof="foaf:Image"/>
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sticky-col-lg mt-4 mt-lg-0 col-12 col-lg-6">
+                            <div data-block-plugin-id="inline_block:text" data-inline-block-uuid="b294fceb-f0a1-46da-b953-9b946664ec27">
+                                <div class="text-block-content">
+                                    <div>
+                                        <h2>
+                                            <br/>
+                                        </h2>
+                                        <h2>
+                                            <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">混合现实技术应用于引导式测量</span>
+                                        </h2>
+                                        <p>
+                                            <br/>
+                                        </p>
+                                        <p>
+                                            <br/>
+                                        </p>
+                                        <p>
+                                            <br/>
+                                        </p>
+                                        <article>
+                                            <div>
+                                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613725781799035.png" width="69" height="74" alt="product-ar-icon-1_0.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-1_0.png" class="" title="1613725781799035.png"/>
+                                            </div>
+                                        </article>
+                                        <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                            <p>
+                                                <br/>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">实时连接到PolyWorks|Inspector™</span>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">将HoloLens混合现实设备连接到运行PolyWorks|Inspector™的计算机，并打开检测项目，您的眼前即可显示出CAD模型。</span>
+                                            </p>
+                                        </div>
+                                        <p>
+                                            <br/>
+                                        </p>
+                                        <article>
+                                            <div>
+                                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613725830992438.png" width="69" height="74" alt="product-ar-icon-2_0.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-2_0.png" title="1613725830992438.png"/>
+                                            </div>
+                                        </article>
+                                        <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                            <p>
+                                                <br/>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">无目标的定位过程</span>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">移动头部，使投射的CAD模型与零件重合，并通过基于模型的追踪技术，相对于零件坐标系定位混合现实设备。</span>
+                                            </p>
+                                        </div>
+                                        <p>
+                                            <br/>
+                                        </p>
+                                        <article>
+                                            <div>
+                                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613725842846067.png" width="69" height="74" alt="product-ar-icon-3_0.png" data-mce-src="../../../../../sites/default/files/media/image/product-ar-icon-3_0.png" title="1613725842846067.png"/>
+                                            </div>
+                                        </article>
+                                        <div class="mc_cas2_xlbd_txt mc_case_txt1630">
+                                            <p>
+                                                <br/>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">自然的3D互动</span>
+                                            </p>
+                                            <p>
+                                                <span style="color: rgb(255, 255, 255);" data-mce-style="color: #ffffff;">通过注视、使用手势选择项目，比如PolyWorks|AR™工具栏按钮或零件上的3D位置，自然地与您的3D环境互动。</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
 <div class="mc_template_lisbox" style="clear: both; background-color: rgb(99, 255, 132);" data-mce-style="clear: both;">
     <div class="mc_cas2_xlbox">
         <div class="g_content">
