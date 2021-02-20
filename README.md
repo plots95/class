@@ -1,3 +1,83 @@
+<div class="mc_template_lisbox" style="clear: both;" data-mce-style="clear: both;">
+    <div class="mc_cas1_ztywbox">
+        <div class="g_content">
+            <div class="mc_cas1_ztyw clearfix">
+                <div class="mc_cas1_tw_txtbox fr">
+                    <h3 class="mc_cas1_tw_title mc_case_title26">
+                        三角化建模
+                    </h3>
+                    <div class="mc_cas1_tw_txt mc_case_txt1630">
+                        <p>
+                            逆向工程的第一步操作主要是将扫描的点云转变为基于曲面的三角化模型，也称作网格化。与原始点云相比，三角化模型更紧凑、更精确、噪点更少，可直接应用于铣削、3D打印和空气动力学模拟等工业领域。
+                        </p>
+                    </div>
+                </div>
+                <div class="mc_cas1_tw_imgbox fl">
+                    <div class="mc_list_imgbox">
+                        <img src="/Public/Uploads/ueditor/upload/image/20210204/1612417446522911.png" alt="未标题-5-恢复的.png" class="mc_list_png" data-mce-src="../../../../../Public/Cn/images/mc_cas1_tw_p1.png" title="1612417446522911.png"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mc_template_lisbox" style="clear: both; background-color: rgb(255, 255, 255);" data-mce-style="clear: both;">
+    <div class="mc_cas3_tabbox">
+        <div class="g_content">
+            <div class="mc_cas3_tabbd">
+                <div class="mc_cas3_tabbd_lisbox">
+                    <div class="mc_cas3_tabbd_list clearfix">
+                        <div class="mc_cas3_tabbd_li">
+                            <div class="yx_mc_c2_imgbox yx_mc_list_imgbox" style="text-align: left;" data-mce-style="text-align: left;">
+                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613717540870307.png" alt="1613717540870307.png" class="yx_mc_list_img" data-mce-src="../../../../../Public/TempFile/ysmodal/images/435x260.png" title="1613717540870307.png" width="80" height="80" border="0" vspace="0" style="width: 80px; height: 80px;" data-mce-style="width: 100px; height: 76px;"/>
+                            </div>
+                            <div class="mc_cas3_tabbdli_txtbox">
+                                <div class="mc_cas3_tabbdli_title" style="text-align: left;" data-mce-style="text-align: left;">
+                                    <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">实时创建扫描零件的三角化模型</span>
+                                </div>
+                                <div class="mc_cas3_tabbdli_txt mc_case_txt1630">
+                                    <p style="text-align: left;" data-mce-style="text-align: left;">
+                                        <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">采取有效的扫描方式，借助实时网格化技术确保质量和精度。</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mc_cas3_tabbd_li" style="text-align: left;" data-mce-style="text-align: left;">
+                            <div class="yx_mc_c2_imgbox yx_mc_list_imgbox" style="text-align: left;" data-mce-style="text-align: left;">
+                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613717598689590.png" alt="1613717598689590.png" class="yx_mc_list_img" data-mce-src="../../../../../Public/TempFile/ysmodal/images/435x260.png" title="1613717598689590.png" width="80" height="80" border="0" vspace="0" style="width: 80px; height: 80px;" data-mce-style="width: 100px; height: 76px;"/>
+                            </div>
+                            <div class="mc_cas3_tabbdli_txtbox">
+                                <div class="mc_cas3_tabbdli_title" style="text-align: left;" data-mce-style="text-align: left;">
+                                    <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">修复和优化扫描数据有缺陷的几何结构</span>
+                                </div>
+                                <div class="mc_cas3_tabbdli_txt mc_case_txt1630">
+                                    <p style="text-align: left;" data-mce-style="text-align: left;">
+                                        <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">填补孔洞、光顺和重建曲面、清理边缘、恢复锐边、使曲面密封等。</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mc_cas3_tabbd_li">
+                            <div class="yx_mc_c2_imgbox yx_mc_list_imgbox" style="text-align: left;" data-mce-style="text-align: left;">
+                                <img src="/Public/Uploads/ueditor/upload/image/20210219/1613717610137722.png" alt="1613717610137722.png" class="yx_mc_list_img" data-mce-src="../../../../../Public/TempFile/ysmodal/images/435x260.png" title="1613717610137722.png" width="80" height="80" border="0" vspace="0" style="width: 80px; height: 80px;" data-mce-style="width: 100px; height: 76px;"/>
+                            </div>
+                            <div class="mc_cas3_tabbdli_txtbox">
+                                <div class="mc_cas3_tabbdli_title" style="text-align: left;" data-mce-style="text-align: left;">
+                                    <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">对三角化模型应用CAD操作</span>
+                                </div>
+                                <div class="mc_cas3_tabbdli_txt mc_case_txt1630">
+                                    <p style="text-align: left;" data-mce-style="text-align: left;">
+                                        <span style="color: rgb(0, 0, 0);" data-mce-style="color: #000000;">拉伸边界、偏置曲面、倒圆角、对CAD模型执行布尔运算等。</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="mc_template_lisbox" style="clear: both; background-color: rgb(0, 0, 0);" data-mce-style="clear: both; ">
     <div class="mc_cas1_ztywbox">
         <div class="mt-0 mb-0 invdxp-layout invdxp-two-column bg--black color--white">
@@ -99,7 +179,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>结束
 
 
 
